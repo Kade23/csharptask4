@@ -1,0 +1,11 @@
+C:\Users\HP\squareroottask\bin\Debug\netcoreapp3.1\squareroottask.exe
+C:\Users\HP\squareroottask\bin\Debug\netcoreapp3.1\squareroottask.deps.json
+C:\Users\HP\squareroottask\bin\Debug\netcoreapp3.1\squareroottask.runtimeconfig.json
+C:\Users\HP\squareroottask\bin\Debug\netcoreapp3.1\squareroottask.runtimeconfig.dev.json
+C:\Users\HP\squareroottask\bin\Debug\netcoreapp3.1\squareroottask.dll
+C:\Users\HP\squareroottask\bin\Debug\netcoreapp3.1\squareroottask.pdb
+C:\Users\HP\squareroottask\obj\Debug\netcoreapp3.1\squareroottask.csprojAssemblyReference.cache
+C:\Users\HP\squareroottask\obj\Debug\netcoreapp3.1\squareroottask.AssemblyInfoInputs.cache
+C:\Users\HP\squareroottask\obj\Debug\netcoreapp3.1\squareroottask.AssemblyInfo.cs
+C:\Users\HP\squareroottask\obj\Debug\netcoreapp3.1\squareroottask.dll
+C:\Users\HP\squareroottask\obj\Debug\netcoreapp3.1\squareroottask.pdb
